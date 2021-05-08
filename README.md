@@ -45,6 +45,6 @@ Browse the [online documentation here.](https://bootstraprev.com/documentation)
 
 ## Copyright and license ![Github](https://img.shields.io/github/license/jgthms/bulma?logo=Github)
 
-Code copyright 2021 Boostrao Rev. Code released under [MIT license](https://opensource.org/licenses/MIT).
+Code copyright 2021 Bootstrap Rev. Code released under [MIT license](https://opensource.org/licenses/MIT).
 
 [npm-link]: https://www.npmjs.com/package/bootstraprev
